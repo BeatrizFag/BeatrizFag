@@ -1,14 +1,11 @@
 ### Olá! Eu sou a Beatriz Fagundes.
 
-
-- 👩‍💻 Atualmente eu trabalho como Estagiaria.
 - 🎓 Curso Ciência da Computação
 - 📚 Estudando Python, HTML, CSS, JavaScript
 - 🔍 Pronomes: ela/dela
-- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1022272085931864148/1022272164684120094/Captura_de_Tela_2022-09-21_as_19.23.39.png">
-</div>
+
+Trabalhei por 1 ano e 7 meses como Jovem Aprendiz, na Coordenação de evolução e sustentação de tecnologia da empresa TAESA, configurações de sistemas, ServiceDesk, realização de relatórios, criação de itens de catálogo via ServiceNow, configuração de automações via PowerAutomate e SharePoint, verificações de segurança, configuração e publicação de painéis PowerBi.
+
+Atualmente trabalho na mesma empresa como Estágiaria na Coordenação de evolução e sustentação de tecnologia focando em Analise de Projetos e Demandas AzureDevops.
+
+Desenvolvo páginas e sistemas web responsivos e de layout atrativo. Estou em desenvolvimento vivo e aprendizado contínuo, focando em tecnologias JavaScript e, em breve, viso me tornar uma desenvolvedora Full Stack.
