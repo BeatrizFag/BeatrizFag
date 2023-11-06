@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Beatriz Fagundes.
 
 
-- 👩‍💻 Atualmente eu trabalho como Jovem Aprendiz.
+- 👩‍💻 Atualmente eu trabalho como Estagiaria.
 - 🎓 Curso Ciência da Computação
-- 📚 Estudando Python, HTML, CSS, ServiceNow e PowerBi
+- 📚 Estudando Python, HTML, CSS, JavaScript
 - 🔍 Pronomes: ela/dela
 
 <div align="center">
