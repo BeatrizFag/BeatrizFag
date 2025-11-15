@@ -4,8 +4,6 @@
 - 📚 Estudando Python, HTML, CSS, JavaScript
 - 🔍 Pronomes: ela/dela
 
-Trabalhei por 1 ano e 7 meses como Jovem Aprendiz, na Coordenação de evolução e sustentação de tecnologia da empresa TAESA, configurações de sistemas, ServiceDesk, realização de relatórios, criação de itens de catálogo via ServiceNow, configuração de automações via PowerAutomate e SharePoint, verificações de segurança, configuração e publicação de painéis PowerBi.
+Profissional de TI em formação em Ciência da Computação, com experiência em projetos de dados e tecnologia aplicados a diferentes áreas de negócio e integração com sistemas como SAP e ServiceNow. Atuação com metodologias ágeis em projetos gerenciados via Azure DevOps, com foco em análise de dados, automação de processos e desenvolvimento de soluções estratégicas. 
 
-Atualmente trabalho na mesma empresa como Estágiaria na Coordenação de evolução e sustentação de tecnologia focando em Analise de Projetos e Demandas AzureDevops.
-
-Desenvolvo páginas e sistemas web responsivos e de layout atrativo. Estou em desenvolvimento vivo e aprendizado contínuo, focando em tecnologias JavaScript e, em breve, viso me tornar uma desenvolvedora Full Stack.
+Conhecimentos práticos em Power BI, SQL Server e Python com forte atuação em desenvolvimento de insights que otimizam processos e apoiam a tomada de decisão.
